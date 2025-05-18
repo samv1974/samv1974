@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Sam Vasishat
 
 🚀 Software Engineer at MAQ Software  
 🎯 Goal: FAANG-ready, Open Source Contributor, People’s Magnet  
@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack:
-- 💻 Python, JavaScript, SQL, Azure, Power BI
+- 💻 Python, JavaScript, SQL, Azure, Agents
 - ⚙️ Tools: Git, Docker, Databricks, ADF, VS Code
 
 ---
