@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**samv1974/samv1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer at MAQ Software  
+🎯 Goal: FAANG-ready, Open Source Contributor, People’s Magnet  
+🔥 Building skills in Data Engineering, Backend Dev & ML  
+🌱 Currently learning: LeetCode, Open Source, Leadership
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+- 💻 Python, JavaScript, SQL, Azure, Power BI
+- ⚙️ Tools: Git, Docker, Databricks, ADF, VS Code
+
+---
+
+### 📚 My Journey
+- 💼 Working at MAQ Software – hungry for growth and learning 🚀
+- 🧠 Learning every day — to outgrow, outpace, outperform
+- 🌍 Stepping into Open Source to create real-world impact
+
+---
+
+### 📌 Currently:
+- 🧪 Exploring [Apache Airflow](https://github.com/apache/airflow) contributions
+- 🧠 Upskilling in LeetCode + System Design + Real Projects
